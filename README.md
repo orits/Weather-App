@@ -21,11 +21,11 @@ TO RUN THIS APP
 
 Our Team:
 
+-   Or Itzhari
+
 -   David Biton
 
 -   Kobi Horshid
-
--   Or Itzhari
 
 -   Shalev Marciano
 
